@@ -1,6 +1,6 @@
 # SulitMealsMap — v1
 
-Crowdsourced map of verified cheap eats in Mati &amp; Davao. Built with Next.js,
+Crowdsourced map of verified cheap eats in the Philippines. Built with Next.js,
 Leaflet + OpenStreetMap (no API key needed), static seed data for now.
 
 ## What's in this v1
