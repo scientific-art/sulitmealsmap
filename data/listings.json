@@ -1,0 +1,54 @@
+[
+  {
+    "id": "sample-1",
+    "name": "SAMPLE — Replace with a real verified spot",
+    "category": "carinderia",
+    "item": "Rice + ulam combo",
+    "price": 45,
+    "priceBand": 50,
+    "area": "Mati, Davao Oriental",
+    "lat": 6.9530,
+    "lng": 126.2200,
+    "verifiedCount": 0,
+    "lastVerified": null
+  },
+  {
+    "id": "sample-2",
+    "name": "SAMPLE — Replace with a real verified spot",
+    "category": "street food",
+    "item": "Isaw + kwek-kwek (5 sticks)",
+    "price": 30,
+    "priceBand": 50,
+    "area": "Mati, Davao Oriental",
+    "lat": 6.9560,
+    "lng": 126.2230,
+    "verifiedCount": 0,
+    "lastVerified": null
+  },
+  {
+    "id": "sample-3",
+    "name": "SAMPLE — Replace with a real verified spot",
+    "category": "turo-turo",
+    "item": "Ulam + rice, unli-rice",
+    "price": 65,
+    "priceBand": 100,
+    "area": "Mati, Davao Oriental",
+    "lat": 6.9500,
+    "lng": 126.2160,
+    "verifiedCount": 0,
+    "lastVerified": null
+  },
+  {
+    "id": "sample-4",
+    "name": "SAMPLE — Replace with a real verified spot",
+    "category": "bakery",
+    "item": "Pandesal (5 pcs) + coffee",
+    "price": 40,
+    "priceBand": 50,
+    "area": "Mati, Davao Oriental",
+    "lat": 6.9545,
+    "lng": 126.2245,
+    "verifiedCount": 0,
+    "lastVerified": null
+  }
+]
