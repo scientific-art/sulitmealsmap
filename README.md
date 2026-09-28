@@ -7,7 +7,7 @@ Leaflet + OpenStreetMap (no API key needed), static seed data for now.
 
 - Map + listing cards, filterable by price band (₱50 / ₱100 / ₱150)
 - Sample placeholder listings in `data/listings.json` — **replace these with
-  your real, personally-verified Mati spots before launch**
+  your real, personally-verified spots before launch**
 - "Submit a spot" button that currently points at a placeholder Google Form
   link — create a real Google Form (name, location, item, price, photo
   upload) and drop its link into `SUBMIT_FORM_URL` in `pages/index.js`
